@@ -22,7 +22,7 @@ body {
 
 a {
     text-decoration: none;
-    color: var(--purple);
+    color: var(--white);
 }
 
 
@@ -31,7 +31,7 @@ a {
 
 header {
     background-color: var(--light);
-    color: var(--purple);
+    color: var(--white);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -39,6 +39,10 @@ header {
 
 header h2 {
     margin-left: 10px;
+}
+
+.logo {
+    color: var(--purple);
 }
 
 .left,
@@ -76,3 +80,33 @@ header ul li:hover {
     transform: scale(1.1);
     opacity: .75;
 }
+
+/* Hero */
+.hero {
+    background-color: var(--light);
+    color: var(--white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-left {
+    margin: 35px auto;
+    margin-left: 175px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 17.5px;
+}
+
+.hero-right {
+    margin: 35px auto;
+    margin-right: 175px;
+}
+
+#hero-img {
+    width: 600px;
+    border-radius: 15px;
+}
+
+
