@@ -26,7 +26,20 @@ a {
     color: var(--white);
 }
 
+/* Button */
+.button {
+    width: 170px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    font-size: 25px;
+    font-weight: 525;
+    cursor: pointer;
+}
 
+.button:hover {
+    transform: scale(.95);
+}
 
 /* Header */
 
