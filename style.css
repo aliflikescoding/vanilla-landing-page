@@ -18,10 +18,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container {
-    margin: auto 125px;
-}
-
 header {
     background-color: var(--secondary);
     color: var(--blue);
