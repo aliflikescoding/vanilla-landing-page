@@ -45,7 +45,13 @@ header h2 {
     margin: 25px 125px;
 }
 
-header ul {
+header .left a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header .right ul {
     list-style: none;
 }
 
@@ -57,8 +63,6 @@ header .right ul a {
     font-size: 125%;
 }
 
-header .left a {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+header ul li:not(:first-child) {
+    margin-left: 25px;
 }
