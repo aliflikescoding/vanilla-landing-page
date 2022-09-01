@@ -39,6 +39,7 @@ a {
 
 .button:hover {
     transform: scale(.95);
+    opacity: .9;
 }
 
 .button-danger {
@@ -116,6 +117,7 @@ header ul li:hover {
     flex: 1;
     flex-direction: column;
     gap: 17.5px;
+    transition: all .2s ease-in-out;
 }
 
 .hero-right {
