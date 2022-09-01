@@ -21,3 +21,11 @@ body {
 .container {
     margin: auto 125px;
 }
+
+header {
+    background-color: var(--secondary);
+    color: var(--blue);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
