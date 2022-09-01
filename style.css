@@ -18,15 +18,33 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: var(--purple);
+}
+
+/* Header */
+
 header {
-    background-color: var(--secondary);
-    color: var(--blue);
+    background-color: var(--light);
+    color: var(--purple);
     display: flex;
-    justify-content: center;
+    align-items: center;
     justify-content: space-between;
 }
 
 .left,
 .right {
-    margin: auto 125px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px 125px;
+}
+
+.left h2 {
+    margin-left: 10px;
+}
+
+.right a:not(:first-child) {
+    margin-left: 15px;
 }
