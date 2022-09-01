@@ -41,6 +41,11 @@ a {
     transform: scale(.95);
 }
 
+.button-danger {
+    background-color: var(--orange);
+    color: white;
+}
+
 /* Header */
 
 header {
