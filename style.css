@@ -22,5 +22,11 @@ header {
     background-color: var(--secondary);
     color: var(--blue);
     display: flex;
+    justify-content: center;
     justify-content: space-between;
+}
+
+.left,
+.right {
+    margin: auto 125px;
 }
