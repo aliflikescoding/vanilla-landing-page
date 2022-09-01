@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
 :root {
-    --main: #21897E;
-    --secondary: #3BA99C;
+    --dark: #21897E;
+    --medium: #3BA99C;
     --light: #69D1C5;
     --blue: #7EBCE6;
     --purple: #8980F5;
