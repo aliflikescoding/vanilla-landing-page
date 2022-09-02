@@ -153,6 +153,7 @@ header ul li:hover {
     align-items: center;
     justify-content: center;
     margin: 75px 200px;
+    color: var(--blue);
 }
 
 .showcase-title {
@@ -169,7 +170,7 @@ header ul li:hover {
 .card-img {
     height: 250px;
     width: 250px;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 .card {
