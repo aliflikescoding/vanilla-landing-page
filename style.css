@@ -47,7 +47,13 @@ a {
 
 .button-danger {
     background-color: var(--orange);
-    color: white;
+    color: var(--white);
+}
+
+.button-transparent {
+    background: transparent;
+    border: solid 1.5px var(--white);
+    color: var(--white);
 }
 
 /* Header */
@@ -213,6 +219,34 @@ header ul li:hover {
 }
 
 .container {
-    padding-left: 350px;
+    margin-left: 350px;
     max-width: 1110px;
+}
+
+.redeem {
+    background: var(--light);
+    color: var(--white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.redeem h1 {
+    margin-bottom: 15px;
+}
+
+.redeem-card {
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+
+.redeem-card {
+    background-color: var(--dark);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 45px;
+    padding: 45px 150px;
+    border-radius: 15px;
+    padding-top: 50px;
 }
