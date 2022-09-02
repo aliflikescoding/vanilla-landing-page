@@ -188,3 +188,31 @@ header ul li:hover {
 .card-title {
     margin-bottom: 10px;
 }
+
+/*quotes*/
+.quotes {
+    background: var(--blue);
+    color: var(--white);
+    display: flex;
+    flex-direction: column;
+    padding: 45px 200px;
+}
+
+.quotes-main {
+    font-size: 250%;
+    font-weight: 50;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.quotes-from {
+    font-size: 150%;
+    font-weight: 50;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container {
+    padding-left: 350px;
+    max-width: 1110px;
+}
