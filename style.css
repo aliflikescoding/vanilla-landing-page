@@ -153,7 +153,7 @@ header ul li:hover {
     align-items: center;
     justify-content: center;
     margin: 75px 200px;
-    color: var(--blue);
+    color: var(--light);
 }
 
 .showcase-title {
