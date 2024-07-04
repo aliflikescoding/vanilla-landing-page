@@ -1,8 +1,31 @@
+<p align="center">
+  <h1 align="center">Rock, Paper, Scisors Project in Vanilla HTML, Javascript, and CSS</h1>
+</p>
 
-# Landing Page
+## Output
+
+Visit [The Live Page](https://aliflikescoding.github.io/vanilla-landing-page/#) to view the details
+
+## Description
 
 An asinged project in The Odin Project. basic landing project from the odin proejct you have to use the design rules from the course but I added a little bit of my own spice into into
-## Live Preview
-[Live](https://aliflikescoding.github.io/basic_landing_page_project/)
+
+---
+## 🖥️ Technologies
+
+In this project we used vast amount of modern technologies such as:
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  
+## 📖 Additional information
+
+### 📋 Requirements
+
+something to go live in the html in
+
+
+
 
 
