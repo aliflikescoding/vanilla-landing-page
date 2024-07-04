@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Rock, Paper, Scisors Project in Vanilla HTML, Javascript, and CSS</h1>
+  <h1 align="center">Rock, Paper, Scisors Project in Vanilla HTML and CSS</h1>
 </p>
 
 ## Output
@@ -17,7 +17,6 @@ In this project we used vast amount of modern technologies such as:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   
 ## 📖 Additional information
 
