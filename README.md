@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Rock, Paper, Scisors Project in Vanilla HTML and CSS</h1>
+  <h1 align="center">Basic Landing Page in Vanilla HTML and CSS</h1>
 </p>
 
 ## Output
